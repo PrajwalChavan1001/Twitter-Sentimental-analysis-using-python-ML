@@ -1,5 +1,8 @@
 # Twitter-Sentimental-analysis-using-python-ML
 
+<h1> PRAJWAL (RBT19IT145) <h1>
+
+
 In my Jupyter notebook titled "Twitter Sentiment Analysis Live," I focus on analyzing the sentiment of tweets. Here's a summary of the content from my perspective:
 
 Introduction and Setup: I start by introducing the aim of my project, which is to perform sentiment analysis on Twitter data. I include necessary Python library imports like Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn for this purpose.

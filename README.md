@@ -1,6 +1,6 @@
 # Twitter-Sentimental-analysis-using-python-ML
 
-<h1> PRAJWAL (RBT19IT145) <h1>
+PRAJWAL (RBT19IT145)
 
 
 In my Jupyter notebook titled "Twitter Sentiment Analysis Live," I focus on analyzing the sentiment of tweets. Here's a summary of the content from my perspective:
